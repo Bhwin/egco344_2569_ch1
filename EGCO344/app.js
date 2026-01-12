@@ -1,3 +1,5 @@
+//node.js file for API to show GPA
+
 const express = require('express');
 
 const app = express();
